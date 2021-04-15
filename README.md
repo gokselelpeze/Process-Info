@@ -1,5 +1,7 @@
 # Process-Info
-Operating Systems Homework - implement a system call to the linux kernel and then build it.
+Implement a system call to the linux kernel and then build it.
+
+Operating Systems Homework
 
 # Goal
 In this assignment, you will implement a system call to the linux kernel and then you will build it.
