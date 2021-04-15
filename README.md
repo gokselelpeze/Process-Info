@@ -1,6 +1,4 @@
 # Process-Info
-Implement a system call to the linux kernel and then build it.
-
 Operating Systems Homework
 
 # Goal
