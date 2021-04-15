@@ -1,9 +1,8 @@
 # Process-Info
 Operating Systems Homework
 
-Goal
-
-# In this assignment, you will implement a system call to the linux kernel and then you will build it.
+# Goal
+In this assignment, you will implement a system call to the linux kernel and then you will build it.
 After building, you will call your own system call if your program is working in user space. The
 detailed scenario is given in the below.
 
